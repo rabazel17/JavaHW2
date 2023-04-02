@@ -1,0 +1,106 @@
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: start sort
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 0 element = 12
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: swap 12 and 2
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 1 element = 12
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 2 element = 59
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 3 element = 89
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 4 element = 525
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: swap 525 and 7
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 5 element = 525
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: swap 525 and 43
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 6 element = 525
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: swap 525 and 32
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 7 element = 525
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: swap 525 and 58
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 0 element = 2
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 1 element = 12
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 2 element = 59
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 3 element = 89
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: swap 89 and 7
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 4 element = 89
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: swap 89 and 43
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 5 element = 89
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: swap 89 and 32
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 6 element = 89
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: swap 89 and 58
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 0 element = 2
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 1 element = 12
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 2 element = 59
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: swap 59 and 7
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 3 element = 59
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: swap 59 and 43
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 4 element = 59
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: swap 59 and 32
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 5 element = 59
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: swap 59 and 58
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 0 element = 2
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 1 element = 12
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: swap 12 and 7
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 2 element = 12
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 3 element = 43
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: swap 43 and 32
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 4 element = 43
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 0 element = 2
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 1 element = 7
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 2 element = 12
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 3 element = 32
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 0 element = 2
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 1 element = 7
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 2 element = 12
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 0 element = 2
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 1 element = 7
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: check 0 element = 2
+апр. 01, 2023 9:43:28 PM task1 main
+INFO: end sort
